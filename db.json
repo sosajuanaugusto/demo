@@ -6,6 +6,8 @@
     "userId": "exc41221"
   },
   "boxInfo": {},
-  "errorCode": 403,
-  "errorMessage": "No tiene permisos!!"
+  "error": {
+	  "errorCode": 403,
+	  "errorMessage": "No tiene permisos!!"
+  }
 }
