@@ -1,11 +1,11 @@
 {
-    "userInfo": {
-      "authorized": false,
-      "country": "AR",
-      "name": "Juan Augusto Sosa",
-      "userId": "exc41221"
-    },
-    "boxInfo": {},
-    "errorCode": 403,
-    "errorMessage": "No tiene permisos!!"
-  }
+  "userInfo": {
+    "authorized": false,
+    "country": "AR",
+    "name": "Juan Augusto Sosa",
+    "userId": "exc41221"
+  },
+  "boxInfo": {},
+  "errorCode": 403,
+  "errorMessage": "No tiene permisos!!"
+}
